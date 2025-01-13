@@ -19,14 +19,20 @@ function findMaxLength(nums: number[]): number {
         }
     }
 
-    return maxLength;
-    // let newArr = [];
-    // let maxLen = 1;
-    // for(let i = 0; i < nums.length; i++) {
-    //     newArr.push(nums[i] === 0 ? -1 : 1)
+    // let maxLength = 0;
+    // for (let i = 0; i < nums.length; i++) {
+    //     let count = 0;
+
+    //     for (let j = i; j < nums.length; j++) {
+    //         // Increment count for 1, decrement for 0
+    //         count += nums[j] === 1 ? 1 : -1;
+
+    //         // Check if the subarray has an equal number of 0s and 1s
+    //         if (count === 0) {
+    //             maxLength = Math.max(maxLength, j - i + 1);
+    //         }
+    //     }
     // }
 
-    // for (let i = 0; i < nums.length; i++) {
-    //     if()
-    // }
+    return maxLength;
 };
