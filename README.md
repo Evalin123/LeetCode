@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Evalin123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Evalin123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Evalin123/LeetCode/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Evalin123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Evalin123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Evalin123/LeetCode/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Evalin123/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
 <!---LeetCode Topics End-->
