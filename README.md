@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Evalin123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Evalin123/LeetCode/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,16 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Evalin123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Evalin123/LeetCode/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Evalin123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Evalin123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Evalin123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Evalin123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Evalin123/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
