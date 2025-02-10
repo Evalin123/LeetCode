@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Evalin123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
 ## Queue
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Evalin123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Evalin123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Evalin123/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Evalin123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Evalin123/LeetCode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Evalin123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
