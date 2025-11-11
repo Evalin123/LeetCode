@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Evalin123/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Evalin123/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Evalin123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/Evalin123/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Evalin123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0878-shifting-letters](https://github.com/Evalin123/LeetCode/tree/master/0878-shifting-letters) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/Evalin123/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Queue
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Evalin123/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/Evalin123/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 <!---LeetCode Topics End-->
