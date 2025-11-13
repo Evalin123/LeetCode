@@ -1,20 +1,15 @@
 function groupAnagrams(strs: string[]): string[][] {
-    const res = {};
+    const map = new Map()
 
     for (let str of strs) {
-        const count = Array(26).fill(0);
-        
-        for (let c of str) {
-            count[c.charCodeAt(0) - 'a'.charCodeAt(0)]++
-        }
-        const key = count.join(',');
+        const key = str.split('').sort().join("")
 
-        if (!res[key]) {
-            res[key] = []
+        if (map.has(key)) {
+            map.get(key).push(str)
+        } else {
+            map.set(key, [str])
         }
-
-        res[key].push(str)
     }
 
-    return Object.values(res)
+    return Array.from(map.values());
 };
